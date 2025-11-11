@@ -1,1 +1,1 @@
-# Optimization_Group12
+Group 12 Project of ADVANCED TOPICS IN OPTIMIZATION
